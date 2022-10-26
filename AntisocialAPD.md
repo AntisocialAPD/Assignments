@@ -18,6 +18,7 @@ Mine Surveying.
 
 Drilling & Blasting.
 
+Mine Management.
 
 
 # Other Skills 😉
