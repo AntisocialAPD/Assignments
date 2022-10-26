@@ -21,7 +21,7 @@ Drilling & Blasting.
 
 
 # Other Skills 😉
-Footwear making & Leatherwork.
+Footwear Making & Leatherwork.
 
 Beat Production (FL Studio).
 
