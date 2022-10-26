@@ -1,0 +1,40 @@
+h1 {
+            font-family: "Arial", "Helvetica", serif;
+            color: purple;
+            margin: 0 0 20px 0;
+            font-weight: 300;
+            font-size: 28px;
+           }
+        
+        body {
+            background-color: lavender;
+            background: transparent;
+            text-align: center;
+        }
+        
+       #colour, #day, #gender, #month, #year{
+            color: purple;
+        }
+        
+          input[type=email], input[type=text], #gender, #colour{
+      width: 75%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      }
+      
+      #day, #month, #year{
+      width: 25%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      }
+      
+      form {
+      border: 3px solid purple;
+      padding: 8px;
+      }
